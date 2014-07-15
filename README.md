@@ -17,7 +17,7 @@ These are demos with fake data based on a loose understanding of a few goals: ye
 
 Some design captions:  
 
-![Map](https://raw.github.com/auremoser/ifes-map/master/assets/yemen.png)
+![Map](https://raw.githubusercontent.com/auremoser/ifes-map/master/assets/yemen-choro.png)
 
 ### References
 Progress Planning [gdoc here](https://docs.google.com/document/d/1_CFYG9H1yFwlmcDwsjL1uLwfq9IOT-qZAtQFmf-5WPc/edit?usp=sharing).
