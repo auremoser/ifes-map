@@ -3,12 +3,9 @@ ifes-map
 
 [project] ifes map demo for custom choropleths
 
-Demo [here](http://auremoser.github.io/ifes-map/).
-
 ### Choropleths
 
 Here are some choropleths we considered making split into two rounds. Otherwise updated references can be found [here](https://docs.google.com/document/d/1oFUhsO084gAbB8VIjfNDDXWoMrBmF3XLa6QyKHRyMC8/edit?usp=sharing).
-
 
 ### Demo
 View the latest maps [here](http://auremoser.github.io/ifes-map/)!
