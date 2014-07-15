@@ -11,18 +11,18 @@ $(function() {
         { 'hc-key': 'ye-sd', value: 7 },
         { 'hc-key': 'ye-mw', value: 8 },
         { 'hc-key': 'ye-dh', value: 9 },
-        { 'hc-key': 'ye-hj', value: 10 },
-        { 'hc-key': 'ye-am', value: 11 },
-        { 'hc-key': 'ye-ib', value: 12 },
-        { 'hc-key': 'ye-la', value: 13 },
-        { 'hc-key': 'ye-mr', value: 14 },
-        { 'hc-key': 'ye-ba', value: 15 },
-        { 'hc-key': 'ye-dl', value: 16 },
-        { 'hc-key': 'ye-ja', value: 17 },
-        { 'hc-key': 'ye-sh', value: 18 },
-        { 'hc-key': 'ye-ma', value: 19 },
-        { 'hc-key': 'ye-3426', value: 20 },
-        { 'hc-key': 'ye-3428', value: 30 }
+        { 'hc-key': 'ye-hj', value: 3 },
+        { 'hc-key': 'ye-am', value: 8 },
+        { 'hc-key': 'ye-ib', value: 10 },
+        { 'hc-key': 'ye-la', value: 3 },
+        { 'hc-key': 'ye-mr', value: 4 },
+        { 'hc-key': 'ye-ba', value: 5 },
+        { 'hc-key': 'ye-dl', value: 10 },
+        { 'hc-key': 'ye-ja', value: 4 },
+        { 'hc-key': 'ye-sh', value: 5 },
+        { 'hc-key': 'ye-ma', value: 9 },
+        { 'hc-key': 'ye-3426', value: 10 },
+        { 'hc-key': 'ye-3428', value: 9 }
     ]
 
     // Initiate the chart
@@ -55,8 +55,8 @@ $(function() {
 
         colorAxis: {
                 min: 1,
-                max: 20,
-                type: 'logarithmic',
+                max: 10,
+                // type: 'logarithmic',
                 minColor: '#FBD8DB',
                 maxColor: '#E9322D'
         },
